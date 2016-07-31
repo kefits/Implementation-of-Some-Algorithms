@@ -1,2 +1,2 @@
 # Implementation-of-Some-Algorithms
-This repository has some some program scripts implementing some algorithms.
+This repository has the program scripts implementing some algorithms.
